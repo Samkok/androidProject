@@ -1,4 +1,4 @@
 # ProjectManagement
 
 Hello world
-hello samkok
+hello
