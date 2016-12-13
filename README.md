@@ -1,4 +1,3 @@
 # ProjectManagement
 
 Hello world
-hello
